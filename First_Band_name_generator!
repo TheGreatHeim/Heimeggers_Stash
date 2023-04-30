@@ -1,0 +1,4 @@
+print("Hello, and welcome to the band generator!")
+city = (input ("What city did you grow up in?") )
+pet = (input ("What is the name of your first pet?") )
+print( city, pet )
